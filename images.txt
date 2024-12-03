@@ -4,7 +4,7 @@
 #redis:7.4.1
 #redis:7.2.0
 #spryker/redis-commander:0.8.0
-#alpine:3.20.3
-mysql:8.0.40
-#支持指定架构1
---platform=linux/arm64
+#mysql:8.0.40
+alpine:latest
+#支持指定架构 linux/arm64
+--platform=linux/arm64/v8
