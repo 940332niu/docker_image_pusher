@@ -3,6 +3,8 @@
 #phpmyadmin:5.2.1
 #redis:7.4.1
 #redis:7.2.0
-spryker/redis-commander:0.8.0
+#spryker/redis-commander:0.8.0
+alpine:3.18.2
+mysql：8.0.32
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
